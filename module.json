@@ -2,7 +2,7 @@
   "name": "wfrp4e-cust-subspecies",
   "title": "WFRP4E: More Subspecies (Custom version)",
   "description": "Adds a collection of new homebrew subspecies to choose from in the WFRP4E character generation.",
-  "version": "2.2.0",
+  "version": "#{VERSION}#",
   "author": "iKindred",
   "authors": [
     {
